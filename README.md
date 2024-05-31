@@ -29,6 +29,22 @@
 - 公式段的字体为 [KaTeX Math Regular](https://github.com/KaTeX/katex-fonts/blob/master)（英文）附件（适配安卓）  
   - 辅以 Cochin，Georgia，Times，Times New Roman，serif
 
+### 内容范围
+
+图像序列的科普，ffmpeg Image2，x264 直接编码为视频的用例，ffmpeg pipe 复杂文件名序列的用例，手动指定文件名顺序的用例，以及将视频转换为图像序列的用例
+
+### 繁体中文支持
+
+本教程由简体中文编写，设计上通过自行安装浏览器插件转换为繁体。转换效果不理想则请截图，并发送到本教程 Github 仓库中的 Issues，或 QQ 群里。
+
+### 暗黑模式支持
+
+设计上通过将图片的白色背景改为透明，并给剩下的内容添加白色描边实现。目前已验证了 [Dark Reader](https://darkreader.org) 的效果。如果转换效果不理想则请截图，并发送到本教程 Github 仓库中的 Issues，或 QQ 群里。
+
+### 打印机支持
+
+TODO
+
 ### 打赏
 
 <p align="center"><img src="bmc_qr.png"><br><img src="pp_tip_qr.png"></p>
@@ -37,7 +53,7 @@
 
 ——[PayPal 链接](https://www.paypal.com/qrcodes/managed/3e3e8b7f-27ed-4edc-a0fa-1b469e854a3c?utm_source=consapp)
 
-——新纪录！这玩意现在年收入 20 人民币
+<p align="center"><font size=1>——新纪录！这玩意现在年收入 20 人民币</font></p>
 
 -----
 
